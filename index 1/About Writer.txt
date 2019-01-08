@@ -1,0 +1,35 @@
+# iA Writer For iPad and iPhone
+
+- Keyboard extension with ← → and punctuation keys
+- Seamless sync between Mac, iPad and iPhone
+- iCloud and Dropbox integration
+- Custom typeface optimized for iPad and iPhone
+- Focus Mode keeps you focused on the current sentence (iPad)
+- Advanced file browser to organize your texts
+- Folder support (Drag’n’drop to create)
+- Localized for Chinese, English, French, German, Greek, Italian, Japanese, Portuguese, Russian, and Spanish
+
+## What’s New in 2.1.2
+
+- Text selection can now be extended via Keyboard bar's navigation keys
+- Fixed issue moving files to Dropbox
+- Stability improvements
+- Performance improvements
+
+## File support
+
+Writer uses plain text files, such as .txt and .md (but not .doc or .docx), in “UTF-8” encoding.
+
+## iA Writer For Mac
+
+A Mac OS X version is available too. Look for “iA Writer” in the Mac App Store.
+
+## Questions? Problems?
+
+- Visit www.iawriter.com for information on Writer
+- Visit support.iawriter.com for support, feedback, and the Writer guide
+- Get writing inspiration on Facebook at facebook.com/iawriter
+- Let us know what you think on Twitter @iAWriter
+
+We look forward to hearing from you!
+— Information Architects Inc.
